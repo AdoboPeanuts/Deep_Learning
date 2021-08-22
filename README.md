@@ -50,6 +50,14 @@ Used the testing data to evaluated each model and compared the performance.
 
 Results:
 
+Closing Price Model 
+
+![closingprices.png](Images/closingprice_model.png) 
+
+FNG Model
+
+![fng.png](Images/fng_model.png)
+
 > Which model has a lower loss? 
 
 ## The closing price model has the lower loss on the test data - RMSE of 0.0078 vs 0.0696.
