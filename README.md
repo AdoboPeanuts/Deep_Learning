@@ -44,9 +44,9 @@ Created the same custom LSTM RNN architecture. Fitted the data using the FNG val
 
 Used the same parameters and training steps for each model. 
 
-### Evaluate the performance of each model
+### Evaluated the performance of each model
 
-Used the testing data to evaluated each model and compared the performance.
+Used the testing data to evaluate each model and compared the performance.
 
 Results:
 
